@@ -1,4 +1,5 @@
 202301190 김준석 컴퓨터공학부
+    부계정 junesuk2가 수정했습니다.
 #include<iostream>
 using namespace std;
 
